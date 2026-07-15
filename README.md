@@ -4,7 +4,8 @@
 
 Welcome to my GitHub profile!
 
-I am passionate about Data Analytics and love creating dashboards using Excel, SQL and Power BI.
+I enjoy working with data and creating dashboards that help turn information into useful business insights. 
+I am currently building my skills in Excel, SQL, Power BI, and Python.
 
 ---
 
@@ -14,13 +15,9 @@ I am passionate about Data Analytics and love creating dashboards using Excel, S
 - SQL
 - Power BI
 - Python (Learning)
-
----
-
-## 📂 Projects
-
-- Blinkit Order Performance Dashboard
-- Inventory Management System
+- Data Visualization
+- Pivot Tables
+- Dashboard Design
 
 ---
 
@@ -29,16 +26,30 @@ I am passionate about Data Analytics and love creating dashboards using Excel, S
 - Advanced Excel
 - SQL
 - Power BI
-- Python
+- Python for Data Analysis
+
+---
+
+## 📂 Featured Projects
+
+### 📈 Blinkit Order Performance Dashboard
+
+An interactive Excel dashboard built using Pivot Tables, Pivot Charts, Slicers, KPIs, and business insights.
+
+### 🏪 Inventory Management System
+
+A complete inventory management project for tracking products, stock, and sales.
 
 ---
 
 ## 🎯 Career Goal
 
-To become a professional Data Analyst.
+To begin my career as a Data Analyst and help organizations make better decisions through data.
 
 ---
 
 ## 📫 Contact
 
-GitHub: https://github.com/VivekYadav4471
+- GitHub: https://github.com/VivekYadav4471
+
+Thank you for visiting my profile!
