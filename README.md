@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Vivek Yadav
 
-<!--
-**VivekYadav4471/VivekYadav4471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about Data Analytics and love creating dashboards using Excel, SQL and Power BI.
+
+---
+
+## 🚀 Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python (Learning)
+
+---
+
+## 📂 Projects
+
+- Blinkit Order Performance Dashboard
+- Inventory Management System
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Excel
+- SQL
+- Power BI
+- Python
+
+---
+
+## 🎯 Career Goal
+
+To become a professional Data Analyst.
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/VivekYadav4471
